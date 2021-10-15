@@ -1,8 +1,15 @@
-# Приложение по поиску фотографий Pexel
+### Приложение по поиску фотографий Pexel
 
-```
-Typescript redux, react-redux, redux-thunk, @types/react-redux, bulma pixels, react-responsive-masonry
-```
+### Libraries used
+
+- `Typescript`
+- `redux`
+- `react-redux`
+- `redux-thunk`
+- `@types/react-redux`
+- `pixels`
+- `react-responsive-masonry`
+- `bulma`
 
 ---
 
